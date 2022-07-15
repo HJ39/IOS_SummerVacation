@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A31D285B287FB14C006F30FD /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31D285A287FB14C006F30FD /* GameModel.swift */; };
+		A31D285D287FE368006F30FD /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31D285C287FE368006F30FD /* MenuView.swift */; };
 		A3699483287EABFF00369EED /* Project3_2_Practice_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3699482287EABFF00369EED /* Project3_2_Practice_App.swift */; };
 		A3699485287EABFF00369EED /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3699484287EABFF00369EED /* GameView.swift */; };
 		A3699487287EAC0100369EED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3699486287EAC0100369EED /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A31D285A287FB14C006F30FD /* GameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
+		A31D285C287FE368006F30FD /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		A369947F287EABFF00369EED /* Project3-2(Practice).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project3-2(Practice).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3699482287EABFF00369EED /* Project3_2_Practice_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project3_2_Practice_App.swift; sourceTree = "<group>"; };
 		A3699484287EABFF00369EED /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				A3699488287EAC0100369EED /* Preview Content */,
 				A3699492287EAEFD00369EED /* CardView.swift */,
 				A3699494287EB54E00369EED /* GridStack.swift */,
+				A31D285A287FB14C006F30FD /* GameModel.swift */,
+				A31D285C287FE368006F30FD /* MenuView.swift */,
 			);
 			path = "Project3-2(Practice)";
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A31D285B287FB14C006F30FD /* GameModel.swift in Sources */,
+				A31D285D287FE368006F30FD /* MenuView.swift in Sources */,
 				A3699485287EABFF00369EED /* GameView.swift in Sources */,
 				A3699493287EAEFD00369EED /* CardView.swift in Sources */,
 				A3699495287EB54F00369EED /* GridStack.swift in Sources */,

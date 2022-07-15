@@ -11,7 +11,8 @@ import SwiftUI
 struct Project3_2_Practice_App: App {
     var body: some Scene {
         WindowGroup {
-            GameView()
+            //GameView(prefix: "f")
+            MenuView()
         }
     }
 }
